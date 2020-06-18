@@ -228,7 +228,7 @@ def main(target,
         tasks = (
             asyncio.ensure_future(tls_info_scanner.run()),
             asyncio.ensure_future(waf.detect()),
-            asyncio.ensure_future(DNSHandler.grab_whois(host)),
+            asyncio.ensure_future(DNS_Handler.grab_whois(host)),
             asyncio.ensure_future(web_app_scanner.run_scan()),
             asyncio.ensure_future(DNSHandler.generate_dns_dumpster_mapping(host, logger))
         )
