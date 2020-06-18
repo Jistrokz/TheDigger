@@ -1,6 +1,7 @@
-﻿# TheDigger
+# TheDigger
 
 Red Team and Offensive Security Scanning and Reconnaisance Tool for Vulnerablity Analysis of Networks, Web Apps, and Cloud Services.
+
 
     /$$$$$$$$ /$$                 /$$$$$$$\ /$$                                        
    |__  $$__/| $$                | $$__  $$|__/                                        
@@ -13,10 +14,9 @@ Red Team and Offensive Security Scanning and Reconnaisance Tool for Vulnerablity
                                                 /$$  \ $$ /$$  \ $$                    
                                                |  $$$$$$/|  $$$$$$/                    
                                                 \______/  \______/                     
-
-
+                                                
 TheDigger is capable of scanning and outputting the following details:
 
 --> DNS Information
 --> Visual Representation of DNS mapping with the help of DNS dumpster
---> 
+-->
