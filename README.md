@@ -1,20 +1,8 @@
 # TheDigger
-<h1>
+<h2>
 Red Team and Offensive Security Scanning and Reconnaisance Tool for Vulnerablity Analysis of Networks, Web Apps, and Cloud Services.
-</h1>
-<p>
-    /$$$$$$$$ /$$                 /$$$$$$$\ /$$                                        
-   |__  $$__/| $$                | $$__  $$|__/                                        
-      | $$   | $$$$$$$   /$$$$$$ | $$  \ $$ /$$  /$$$$$$   /$$$$$$   /$$$$$$   /$$$$$$ 
-      | $$   | $$__  $$ /$$__  $$| $$  | $$| $$ /$$__  $$ /$$__  $$ /$$__  $$ /$$__  $$
-      | $$   | $$  \ $$| $$$$$$$$| $$  | $$| $$| $$  \ $$| $$  \ $$| $$$$$$$$| $$  \__/
-      | $$   | $$  | $$| $$_____/| $$  | $$| $$| $$  | $$| $$  | $$| $$_____/| $$      
-      | $$   | $$  | $$|  $$$$$$$| $$$$$$$/| $$|  $$$$$$$|  $$$$$$$|  $$$$$$$| $$      
-      |__/   |__/  |__/ \_______/|_______/ |__/ \____  $$ \____  $$ \_______/|__/      
-                                                /$$  \ $$ /$$  \ $$                    
-                                               |  $$$$$$/|  $$$$$$/                    
-                                                \______/  \______/                     
-</p>
+</h2>
+<img src="logo_Insight.PNG" alt="TheDigger Logo">
  <br><br>                                               
 TheDigger is capable of scanning and outputting the following details:
 <br>
@@ -28,12 +16,12 @@ TheDigger is capable of scanning and outputting the following details:
 --> URL fuzzing <br>
 --> Directory file detection <br>
 --> subdomain enumeration <br>
---> Web application Data retrieval <br>
-        --> CMS Detection <br>
-        -->webserver information <br>
-        --> robots.txt / sitemap.xmp <br>
-        -->cookie inspection <br>
-        --> detect WAF <br>
-        --> Tor/ Proxies <br>
+--> Web application Data retrieval: <br>
+&nbsp&nbsp--> CMS Detection <br>
+&nbsp&nbsp-->webserver information <br>
+&nbsp&nbsp--> robots.txt / sitemap.xmp <br>
+&nbsp&nbsp-->cookie inspection <br>
+&nbsp&nbsp--> detect WAF <br>
+&nbsp&nbsp--> Tor/ Proxies <br>
 
         
