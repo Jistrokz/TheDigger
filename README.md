@@ -17,6 +17,6 @@ Red Team and Offensive Security Scanning and Reconnaisance Tool for Vulnerablity
                                                 
 TheDigger is capable of scanning and outputting the following details:
 
---> DNS Information
+--> DNS Information <br>
 --> Visual Representation of DNS mapping with the help of DNS dumpster
 -->
