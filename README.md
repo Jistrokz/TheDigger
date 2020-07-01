@@ -82,9 +82,11 @@ TheDigger is capable of scanning and outputting the following details:
 
   <h4>Screenshots </h4>
 
-  <img src="SC_1.png" alt="TheDigger Logo"> <br>
-  <img src="SC_2.PNG" alt="TheDigger Logo">
+  <img src="SC_1.png" alt="Screenshot"> <br>
+  <img src="SC_2.PNG" alt="Screenshot">
+  <img src="FileStructure.PNG" alt="TheDigger File Structure">
   
+
 
 
         
