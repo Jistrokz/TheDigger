@@ -26,11 +26,15 @@ TheDigger is capable of scanning and outputting the following details:
 
 <h4>Installation</h4>
 
-``` sudo pip3 install TheDigger ```
+``` 
+sudo pip3 install TheDigger 
+```
 
 <h4> Usage </h4>
 
-``` TheDigger -[options] <Target> ```
+``` 
+TheDigger -[options] <Target> 
+```
 
 <h4> Available options/ Parameters </h4>
 
