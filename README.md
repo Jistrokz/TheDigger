@@ -9,7 +9,7 @@ TheDigger is capable of scanning and outputting the following details:
 --> DNS Information <br>
 --> Visual Representation of DNS mapping with the help of DNS dumpster<br>
 --> TLD Data <br>
---> WHOIS <br>
+--> WHOIS data<br>
 --> Port Scan <br>
 --> Script scan <br>
 --> Vulnerable service scan <br>
